@@ -79,7 +79,7 @@ Aplicação de Conceitos
 - Lógica de ordenação dinâmica:**
   - Filtros por data ou nota
 
- 👥 Integrantes do Grupo
+  Integrantes do Grupo
 
 -  Paulo Vitor
 -  Rafael Leonardo
